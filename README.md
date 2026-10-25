@@ -141,7 +141,7 @@ plt.axis('off')
 
 ## Output
 ### i) Input Iamge
-<img width="766" height="613" alt="Screenshot 2026-10-25 153017" src="https://github.com/user-attachments/assets/f99a9a3b-ed72-496b-985d-da99199e980c" />
+<img width="766" height="613" alt="Screenshot 2026-10-25 153017" src="https://github.com/user-attachments/assets/d6e302d3-cdf8-41fd-b547-c683a7b64fe8" />
 
 
 ### ii) Image Translation
@@ -165,7 +165,7 @@ plt.axis('off')
 
 
 ### vii) Image Cropping
-<img width="762" height="612" alt="Screenshot 2026-10-25 153125" src="https://github.com/user-attachments/assets/f3afe3eb-995e-4f76-b2ad-5752ec03139c" />
+<img width="762" height="612" alt="Screenshot 2026-10-25 153125" src="https://github.com/user-attachments/assets/87e4c12f-44b8-4205-a3d5-87201d14280e" />
 
 
 ## Result
